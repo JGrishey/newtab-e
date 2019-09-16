@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/newtabe/static/css/main.e41ccd07.chunk.css",
+    "main.css": "/newtabe/static/css/main.649722ba.chunk.css",
     "main.js": "/newtabe/static/js/main.e1b7602a.chunk.js",
     "main.js.map": "/newtabe/static/js/main.e1b7602a.chunk.js.map",
     "runtime~main.js": "/newtabe/static/js/runtime~main.f7847267.js",
@@ -8,9 +8,9 @@
     "static/js/2.cf1ac5ef.chunk.js": "/newtabe/static/js/2.cf1ac5ef.chunk.js",
     "static/js/2.cf1ac5ef.chunk.js.map": "/newtabe/static/js/2.cf1ac5ef.chunk.js.map",
     "index.html": "/newtabe/index.html",
-    "precache-manifest.e92589199bfb05dcedcce6291478b0b5.js": "/newtabe/precache-manifest.e92589199bfb05dcedcce6291478b0b5.js",
+    "precache-manifest.c84ebdfdba47c7a2e6905be69ce18254.js": "/newtabe/precache-manifest.c84ebdfdba47c7a2e6905be69ce18254.js",
     "service-worker.js": "/newtabe/service-worker.js",
-    "static/css/main.e41ccd07.chunk.css.map": "/newtabe/static/css/main.e41ccd07.chunk.css.map",
-    "static/media/index.css": "/newtabe/static/media/_DSC0646.d5f4cb92.jpg"
+    "static/css/main.649722ba.chunk.css.map": "/newtabe/static/css/main.649722ba.chunk.css.map",
+    "static/media/index.css": "/newtabe/static/media/quabbin.d5f4cb92.jpg"
   }
 }
