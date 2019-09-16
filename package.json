@@ -2,7 +2,7 @@
   "name": "newtabe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jgrishey.github.io/newtab",
+  "homepage": "https://jgrishey.github.io/newtabe",
   "dependencies": {
     "date-fns": "^2.2.1",
     "react": "^16.9.0",
